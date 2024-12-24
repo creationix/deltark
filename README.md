@@ -1,11 +1,11 @@
-![DELTARK Logo](https://github.com/user-attachments/assets/be7e2a58-cbf8-4832-b04c-079c9c6defe0)
+![DELTARK Logo](./deltark.svg)
 
 # DeltArk
 
 > [!NOTE]  
 > TODO: replace this LLM generated nonsense with a proper project description...
 
-> **Where an arc meets a delta, and fragments form the harmony of tomorrow.**
+**Where an arc meets a delta, and fragments form the harmony of tomorrow.**
 
 ---
 

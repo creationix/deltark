@@ -2,6 +2,9 @@
 
 # DeltArk
 
+> [!NOTE]  
+> TODO: replace this LLM generated nonsense with a proper project description...
+
 > **Where an arc meets a delta, and fragments form the harmony of tomorrow.**
 
 ---

@@ -1,0 +1,1 @@
+![DELTARK Logo](image.png)

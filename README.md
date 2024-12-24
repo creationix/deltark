@@ -1,4 +1,4 @@
-![DELTARK Logo](image.png)
+![DELTARK Logo](https://github.com/user-attachments/assets/be7e2a58-cbf8-4832-b04c-079c9c6defe0)
 
 # DeltArk
 
